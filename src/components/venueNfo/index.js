@@ -1,7 +1,8 @@
 import React from 'react';
 import icon_calendar from '../../resources/images/icons/calendar.png';
 import icon_location from '../../resources/images/icons/location.png';
-import Zoom from 'react-reveal/Zoom'
+import Zoom from 'react-reveal/Zoom';
+
 
 const VenueNfo = () => {
     return (
